@@ -13,7 +13,7 @@ This is my submission to Github's Game Off 2023. Theme and rules can be found he
 You can play the game here: [https://sleepy-sam.itch.io/rats-reckoning](https://sleepy-sam.itch.io/rats-reckoning)
 
 ## Art and Game Dev
-Art and animations by **ItchyPinkEyeO**
+Art and animations by **ItchyPinkEyeO**<br>
 Design & game development by **SleepySam**
 
 ### Audio Credits:
