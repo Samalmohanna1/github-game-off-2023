@@ -1,6 +1,8 @@
 # Github-game-off-2023
 # Bait, Click, Brawl! Rat's Reckoning
 
+![Bait, Click, Brawl! Rat's Reckoning](https://raw.githubusercontent.com/Samalmohanna1/github-game-off-2023/main/release.1/thumbnail.png)
+
 ## About Rat's Reckoning
 
 ### Game Off 2023 - Theme is Scale
